@@ -4,6 +4,7 @@ import { Company } from "./types";
 
 const initialState = {
   companies: [] as Company[],
+  query: "",
 };
 
 export const stateContext = createContext([

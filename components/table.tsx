@@ -1,4 +1,5 @@
 import useCompanies from "../services/companies";
+import CompaniesHeader from "./header";
 import CompanyRow, { key } from "./row";
 
 const CompaniesTable: React.FC = () => {
@@ -6,12 +7,7 @@ const CompaniesTable: React.FC = () => {
 
   return (
     <table>
-      <thead>
-        <th>Company name</th>
-        <th>Logo</th>
-        <th>Specialities</th>
-        <th>City</th>
-      </thead>
+      <CompaniesHeader />
       <tbody>
         {companies.map((c) => (
           <CompanyRow key={key(c)} value={c} />
