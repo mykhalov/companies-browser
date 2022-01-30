@@ -1,0 +1,894 @@
+[
+  {
+    "name": "Gluid",
+    "logo": "https://picsum.photos/seed/Gluid/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Woodburn"
+  },
+  {
+    "name": "Confrenzy",
+    "logo": "https://picsum.photos/seed/Confrenzy/32/32",
+    "specialities": [
+      "electrical",
+      "excavation"
+    ],
+    "city": "Grapeview"
+  },
+  {
+    "name": "Quarmony",
+    "logo": "https://picsum.photos/seed/Quarmony/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Whitehaven"
+  },
+  {
+    "name": "Harmoney",
+    "logo": "https://picsum.photos/seed/Harmoney/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Eagletown"
+  },
+  {
+    "name": "Zoinage",
+    "logo": "https://picsum.photos/seed/Zoinage/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Worton"
+  },
+  {
+    "name": "Medicroix",
+    "logo": "https://picsum.photos/seed/Medicroix/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Harrison"
+  },
+  {
+    "name": "Rotodyne",
+    "logo": "https://picsum.photos/seed/Rotodyne/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Klondike"
+  },
+  {
+    "name": "Mobildata",
+    "logo": "https://picsum.photos/seed/Mobildata/32/32",
+    "specialities": [
+      "electrical",
+      "excavation",
+      "plumbing"
+    ],
+    "city": "Weeksville"
+  },
+  {
+    "name": "Micronaut",
+    "logo": "https://picsum.photos/seed/Micronaut/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Gorst"
+  },
+  {
+    "name": "Adornica",
+    "logo": "https://picsum.photos/seed/Adornica/32/32",
+    "specialities": [
+      "excavation",
+      "plumbing"
+    ],
+    "city": "Marion"
+  },
+  {
+    "name": "Quordate",
+    "logo": "https://picsum.photos/seed/Quordate/32/32",
+    "specialities": [
+      "excavation",
+      "plumbing"
+    ],
+    "city": "Oretta"
+  },
+  {
+    "name": "Virxo",
+    "logo": "https://picsum.photos/seed/Virxo/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Glenbrook"
+  },
+  {
+    "name": "Kongene",
+    "logo": "https://picsum.photos/seed/Kongene/32/32",
+    "specialities": [
+      "electrical",
+      "excavation",
+      "plumbing"
+    ],
+    "city": "Temperanceville"
+  },
+  {
+    "name": "Opportech",
+    "logo": "https://picsum.photos/seed/Opportech/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Allendale"
+  },
+  {
+    "name": "Limage",
+    "logo": "https://picsum.photos/seed/Limage/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Riner"
+  },
+  {
+    "name": "Comcubine",
+    "logo": "https://picsum.photos/seed/Comcubine/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Vivian"
+  },
+  {
+    "name": "Qaboos",
+    "logo": "https://picsum.photos/seed/Qaboos/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Summerset"
+  },
+  {
+    "name": "Knowlysis",
+    "logo": "https://picsum.photos/seed/Knowlysis/32/32",
+    "specialities": [
+      "excavation",
+      "plumbing"
+    ],
+    "city": "Trail"
+  },
+  {
+    "name": "Concility",
+    "logo": "https://picsum.photos/seed/Concility/32/32",
+    "specialities": [
+      "electrical",
+      "excavation"
+    ],
+    "city": "Foscoe"
+  },
+  {
+    "name": "Stockpost",
+    "logo": "https://picsum.photos/seed/Stockpost/32/32",
+    "specialities": [
+      "excavation",
+      "plumbing"
+    ],
+    "city": "Dorneyville"
+  },
+  {
+    "name": "Xoggle",
+    "logo": "https://picsum.photos/seed/Xoggle/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Orason"
+  },
+  {
+    "name": "Avenetro",
+    "logo": "https://picsum.photos/seed/Avenetro/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Craig"
+  },
+  {
+    "name": "Chorizon",
+    "logo": "https://picsum.photos/seed/Chorizon/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Elliston"
+  },
+  {
+    "name": "Mondicil",
+    "logo": "https://picsum.photos/seed/Mondicil/32/32",
+    "specialities": [
+      "electrical",
+      "excavation"
+    ],
+    "city": "Lemoyne"
+  },
+  {
+    "name": "Zolavo",
+    "logo": "https://picsum.photos/seed/Zolavo/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Manitou"
+  },
+  {
+    "name": "Conferia",
+    "logo": "https://picsum.photos/seed/Conferia/32/32",
+    "specialities": [
+      "electrical"
+    ],
+    "city": "Loomis"
+  },
+  {
+    "name": "Coriander",
+    "logo": "https://picsum.photos/seed/Coriander/32/32",
+    "specialities": [
+      "electrical",
+      "excavation"
+    ],
+    "city": "Falmouth"
+  },
+  {
+    "name": "Furnigeer",
+    "logo": "https://picsum.photos/seed/Furnigeer/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Tyhee"
+  },
+  {
+    "name": "Geeknet",
+    "logo": "https://picsum.photos/seed/Geeknet/32/32",
+    "specialities": [
+      "electrical",
+      "excavation",
+      "plumbing"
+    ],
+    "city": "Caledonia"
+  },
+  {
+    "name": "Genmy",
+    "logo": "https://picsum.photos/seed/Genmy/32/32",
+    "specialities": [
+      "electrical"
+    ],
+    "city": "Gratton"
+  },
+  {
+    "name": "Accruex",
+    "logo": "https://picsum.photos/seed/Accruex/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Idledale"
+  },
+  {
+    "name": "Retrotex",
+    "logo": "https://picsum.photos/seed/Retrotex/32/32",
+    "specialities": [
+      "electrical",
+      "excavation"
+    ],
+    "city": "Norris"
+  },
+  {
+    "name": "Supremia",
+    "logo": "https://picsum.photos/seed/Supremia/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Freeburn"
+  },
+  {
+    "name": "Genesynk",
+    "logo": "https://picsum.photos/seed/Genesynk/32/32",
+    "specialities": [
+      "electrical"
+    ],
+    "city": "Ronco"
+  },
+  {
+    "name": "Gology",
+    "logo": "https://picsum.photos/seed/Gology/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Mulberry"
+  },
+  {
+    "name": "Bleeko",
+    "logo": "https://picsum.photos/seed/Bleeko/32/32",
+    "specialities": [
+      "excavation",
+      "plumbing"
+    ],
+    "city": "Alden"
+  },
+  {
+    "name": "Oulu",
+    "logo": "https://picsum.photos/seed/Oulu/32/32",
+    "specialities": [
+      "excavation"
+    ],
+    "city": "Washington"
+  },
+  {
+    "name": "Paprikut",
+    "logo": "https://picsum.photos/seed/Paprikut/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Enoree"
+  },
+  {
+    "name": "Endipine",
+    "logo": "https://picsum.photos/seed/Endipine/32/32",
+    "specialities": [
+      "electrical",
+      "excavation"
+    ],
+    "city": "Coalmont"
+  },
+  {
+    "name": "Syntac",
+    "logo": "https://picsum.photos/seed/Syntac/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Jugtown"
+  },
+  {
+    "name": "Webiotic",
+    "logo": "https://picsum.photos/seed/Webiotic/32/32",
+    "specialities": [
+      "electrical",
+      "excavation"
+    ],
+    "city": "Campo"
+  },
+  {
+    "name": "Ginkle",
+    "logo": "https://picsum.photos/seed/Ginkle/32/32",
+    "specialities": [
+      "electrical",
+      "excavation"
+    ],
+    "city": "Genoa"
+  },
+  {
+    "name": "Krog",
+    "logo": "https://picsum.photos/seed/Krog/32/32",
+    "specialities": [
+      "electrical"
+    ],
+    "city": "Byrnedale"
+  },
+  {
+    "name": "Dyno",
+    "logo": "https://picsum.photos/seed/Dyno/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Ripley"
+  },
+  {
+    "name": "Immunics",
+    "logo": "https://picsum.photos/seed/Immunics/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Alfarata"
+  },
+  {
+    "name": "Cyclonica",
+    "logo": "https://picsum.photos/seed/Cyclonica/32/32",
+    "specialities": [
+      "electrical",
+      "excavation"
+    ],
+    "city": "Boykin"
+  },
+  {
+    "name": "Protodyne",
+    "logo": "https://picsum.photos/seed/Protodyne/32/32",
+    "specialities": [
+      "excavation",
+      "plumbing"
+    ],
+    "city": "Soham"
+  },
+  {
+    "name": "Exoblue",
+    "logo": "https://picsum.photos/seed/Exoblue/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Hanover"
+  },
+  {
+    "name": "Exosis",
+    "logo": "https://picsum.photos/seed/Exosis/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Neibert"
+  },
+  {
+    "name": "Namegen",
+    "logo": "https://picsum.photos/seed/Namegen/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Herbster"
+  },
+  {
+    "name": "Extragen",
+    "logo": "https://picsum.photos/seed/Extragen/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Elbert"
+  },
+  {
+    "name": "Enersol",
+    "logo": "https://picsum.photos/seed/Enersol/32/32",
+    "specialities": [
+      "electrical",
+      "excavation"
+    ],
+    "city": "Dyckesville"
+  },
+  {
+    "name": "Macronaut",
+    "logo": "https://picsum.photos/seed/Macronaut/32/32",
+    "specialities": [
+      "excavation"
+    ],
+    "city": "Montura"
+  },
+  {
+    "name": "Quiltigen",
+    "logo": "https://picsum.photos/seed/Quiltigen/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Heil"
+  },
+  {
+    "name": "Isosure",
+    "logo": "https://picsum.photos/seed/Isosure/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Belvoir"
+  },
+  {
+    "name": "Zoxy",
+    "logo": "https://picsum.photos/seed/Zoxy/32/32",
+    "specialities": [
+      "electrical"
+    ],
+    "city": "Warren"
+  },
+  {
+    "name": "Isoplex",
+    "logo": "https://picsum.photos/seed/Isoplex/32/32",
+    "specialities": [
+      "electrical",
+      "excavation",
+      "plumbing"
+    ],
+    "city": "Farmington"
+  },
+  {
+    "name": "Hyplex",
+    "logo": "https://picsum.photos/seed/Hyplex/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Shrewsbury"
+  },
+  {
+    "name": "Rocklogic",
+    "logo": "https://picsum.photos/seed/Rocklogic/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Malott"
+  },
+  {
+    "name": "Digirang",
+    "logo": "https://picsum.photos/seed/Digirang/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Cetronia"
+  },
+  {
+    "name": "Bytrex",
+    "logo": "https://picsum.photos/seed/Bytrex/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Greenwich"
+  },
+  {
+    "name": "Zytrac",
+    "logo": "https://picsum.photos/seed/Zytrac/32/32",
+    "specialities": [
+      "excavation"
+    ],
+    "city": "Convent"
+  },
+  {
+    "name": "Corepan",
+    "logo": "https://picsum.photos/seed/Corepan/32/32",
+    "specialities": [
+      "excavation",
+      "plumbing"
+    ],
+    "city": "Castleton"
+  },
+  {
+    "name": "Yurture",
+    "logo": "https://picsum.photos/seed/Yurture/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Clarktown"
+  },
+  {
+    "name": "Xsports",
+    "logo": "https://picsum.photos/seed/Xsports/32/32",
+    "specialities": [
+      "excavation"
+    ],
+    "city": "Fowlerville"
+  },
+  {
+    "name": "Utarian",
+    "logo": "https://picsum.photos/seed/Utarian/32/32",
+    "specialities": [
+      "electrical",
+      "excavation",
+      "plumbing"
+    ],
+    "city": "Lumberton"
+  },
+  {
+    "name": "Tubalum",
+    "logo": "https://picsum.photos/seed/Tubalum/32/32",
+    "specialities": [
+      "excavation"
+    ],
+    "city": "Fontanelle"
+  },
+  {
+    "name": "Enerforce",
+    "logo": "https://picsum.photos/seed/Enerforce/32/32",
+    "specialities": [
+      "electrical"
+    ],
+    "city": "Alamo"
+  },
+  {
+    "name": "Autograte",
+    "logo": "https://picsum.photos/seed/Autograte/32/32",
+    "specialities": [
+      "excavation"
+    ],
+    "city": "Verdi"
+  },
+  {
+    "name": "Elita",
+    "logo": "https://picsum.photos/seed/Elita/32/32",
+    "specialities": [
+      "excavation"
+    ],
+    "city": "Faywood"
+  },
+  {
+    "name": "Valpreal",
+    "logo": "https://picsum.photos/seed/Valpreal/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Delco"
+  },
+  {
+    "name": "Rockabye",
+    "logo": "https://picsum.photos/seed/Rockabye/32/32",
+    "specialities": [
+      "electrical",
+      "excavation"
+    ],
+    "city": "Orviston"
+  },
+  {
+    "name": "Codact",
+    "logo": "https://picsum.photos/seed/Codact/32/32",
+    "specialities": [
+      "excavation",
+      "plumbing"
+    ],
+    "city": "Hailesboro"
+  },
+  {
+    "name": "Isostream",
+    "logo": "https://picsum.photos/seed/Isostream/32/32",
+    "specialities": [
+      "excavation",
+      "plumbing"
+    ],
+    "city": "Linwood"
+  },
+  {
+    "name": "Klugger",
+    "logo": "https://picsum.photos/seed/Klugger/32/32",
+    "specialities": [
+      "electrical",
+      "excavation",
+      "plumbing"
+    ],
+    "city": "Teasdale"
+  },
+  {
+    "name": "Bullzone",
+    "logo": "https://picsum.photos/seed/Bullzone/32/32",
+    "specialities": [
+      "electrical",
+      "excavation"
+    ],
+    "city": "Harmon"
+  },
+  {
+    "name": "Kengen",
+    "logo": "https://picsum.photos/seed/Kengen/32/32",
+    "specialities": [
+      "electrical",
+      "excavation"
+    ],
+    "city": "Sparkill"
+  },
+  {
+    "name": "Ovium",
+    "logo": "https://picsum.photos/seed/Ovium/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Templeton"
+  },
+  {
+    "name": "Otherway",
+    "logo": "https://picsum.photos/seed/Otherway/32/32",
+    "specialities": [
+      "electrical",
+      "excavation"
+    ],
+    "city": "Crumpler"
+  },
+  {
+    "name": "Icology",
+    "logo": "https://picsum.photos/seed/Icology/32/32",
+    "specialities": [
+      "electrical"
+    ],
+    "city": "Machias"
+  },
+  {
+    "name": "Yogasm",
+    "logo": "https://picsum.photos/seed/Yogasm/32/32",
+    "specialities": [
+      "electrical",
+      "excavation"
+    ],
+    "city": "Kieler"
+  },
+  {
+    "name": "Skinserve",
+    "logo": "https://picsum.photos/seed/Skinserve/32/32",
+    "specialities": [
+      "electrical",
+      "excavation",
+      "plumbing"
+    ],
+    "city": "Barrelville"
+  },
+  {
+    "name": "Isotronic",
+    "logo": "https://picsum.photos/seed/Isotronic/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Stonybrook"
+  },
+  {
+    "name": "Duflex",
+    "logo": "https://picsum.photos/seed/Duflex/32/32",
+    "specialities": [
+      "excavation",
+      "plumbing"
+    ],
+    "city": "Crayne"
+  },
+  {
+    "name": "Emoltra",
+    "logo": "https://picsum.photos/seed/Emoltra/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Elfrida"
+  },
+  {
+    "name": "Strozen",
+    "logo": "https://picsum.photos/seed/Strozen/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Chicopee"
+  },
+  {
+    "name": "Teraprene",
+    "logo": "https://picsum.photos/seed/Teraprene/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Deputy"
+  },
+  {
+    "name": "Bittor",
+    "logo": "https://picsum.photos/seed/Bittor/32/32",
+    "specialities": [
+      "electrical"
+    ],
+    "city": "Bayview"
+  },
+  {
+    "name": "Bedlam",
+    "logo": "https://picsum.photos/seed/Bedlam/32/32",
+    "specialities": [
+      "electrical",
+      "excavation",
+      "plumbing"
+    ],
+    "city": "Ogema"
+  },
+  {
+    "name": "Exoteric",
+    "logo": "https://picsum.photos/seed/Exoteric/32/32",
+    "specialities": [
+      "electrical",
+      "excavation"
+    ],
+    "city": "Urie"
+  },
+  {
+    "name": "Bitendrex",
+    "logo": "https://picsum.photos/seed/Bitendrex/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Foxworth"
+  },
+  {
+    "name": "Dancerity",
+    "logo": "https://picsum.photos/seed/Dancerity/32/32",
+    "specialities": [
+      "electrical"
+    ],
+    "city": "Winesburg"
+  },
+  {
+    "name": "Olucore",
+    "logo": "https://picsum.photos/seed/Olucore/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Blodgett"
+  },
+  {
+    "name": "Pyramia",
+    "logo": "https://picsum.photos/seed/Pyramia/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Rushford"
+  },
+  {
+    "name": "Accidency",
+    "logo": "https://picsum.photos/seed/Accidency/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Belmont"
+  },
+  {
+    "name": "Vendblend",
+    "logo": "https://picsum.photos/seed/Vendblend/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Loveland"
+  },
+  {
+    "name": "Podunk",
+    "logo": "https://picsum.photos/seed/Podunk/32/32",
+    "specialities": [
+      "electrical",
+      "excavation"
+    ],
+    "city": "Nescatunga"
+  },
+  {
+    "name": "Tribalog",
+    "logo": "https://picsum.photos/seed/Tribalog/32/32",
+    "specialities": [
+      "electrical",
+      "excavation"
+    ],
+    "city": "Hemlock"
+  },
+  {
+    "name": "Megall",
+    "logo": "https://picsum.photos/seed/Megall/32/32",
+    "specialities": [
+      "electrical",
+      "plumbing"
+    ],
+    "city": "Stagecoach"
+  },
+  {
+    "name": "Vitricomp",
+    "logo": "https://picsum.photos/seed/Vitricomp/32/32",
+    "specialities": [
+      "electrical",
+      "excavation"
+    ],
+    "city": "Waukeenah"
+  }
+]
