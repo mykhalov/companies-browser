@@ -2,6 +2,7 @@
 import { readFile } from "fs/promises";
 import type { NextApiRequest, NextApiResponse } from "next";
 import { resolve } from "path";
+import { Company } from "../../components/types";
 
 // Read file asynchronously to avoid stalling server startup
 const data = readFile(resolve("./public", "generated.json"), {
@@ -10,7 +11,21 @@ const data = readFile(resolve("./public", "generated.json"), {
 
 export default function handler(
   req: NextApiRequest,
-  res: NextApiResponse<string>
+  res: NextApiResponse<Company[]>
 ) {
-  data.then((json) => res.status(200).send(json));
+  data.then((json) => {
+    let companies: Company[] = JSON.parse(json);
+    const query = req.query.q as string;
+
+    if (query)
+      companies = companies
+        .filter((c) => c.name.toLowerCase().includes(query))
+        .sort(
+          (a, b) =>
+            a.name.toLowerCase().indexOf(query) -
+            b.name.toLowerCase().indexOf(query)
+        );
+
+    return res.status(200).json(companies);
+  });
 }
