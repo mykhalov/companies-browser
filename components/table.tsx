@@ -1,15 +1,8 @@
-import { useEffect, useState } from "react";
+import useCompanies from "../services/companies";
 import CompanyRow, { key } from "./row";
-import { Company } from "./types";
 
 const CompaniesTable: React.FC = () => {
-  const [companies, setCompanies] = useState<Company[]>([]);
-
-  useEffect(() => {
-    fetch("/api/companies")
-      .then((r) => r.json())
-      .then(setCompanies);
-  }, []);
+  const companies = useCompanies();
 
   return (
     <table>

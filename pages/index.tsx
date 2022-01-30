@@ -1,8 +1,11 @@
-import type { NextPage } from "next";
-import CompaniesTable from "./_companies/table";
+import { NextPage } from "next";
+import StateProvider from "../components/state";
+import CompaniesTable from "../components/table";
 
-const Home: NextPage = () => {
-  return <CompaniesTable />;
-};
+const Companies: NextPage = () => (
+  <StateProvider>
+    <CompaniesTable />
+  </StateProvider>
+);
 
-export default Home;
+export default Companies;
