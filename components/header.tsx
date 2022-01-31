@@ -1,16 +1,10 @@
-import { useContext } from "react";
-import { stateContext } from "./state";
+import Input from "./input";
 
 const CompaniesHeader: React.FC = () => {
-  const [, setState] = useContext(stateContext);
-
   return (
     <thead>
       <th>
-        <input
-          placeholder="Company name"
-          onChange={(e) => setState((s) => ({ ...s, query: e.target.value }))}
-        />
+        <Input />
       </th>
       <th>Logo</th>
       <th>Specialities</th>
