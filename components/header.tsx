@@ -1,10 +1,10 @@
-import Input from "./input";
+import CompanyNameInput from "./input";
 
 const CompaniesHeader: React.FC = () => {
   return (
     <thead>
       <th>
-        <Input />
+        <CompanyNameInput />
       </th>
       <th>Logo</th>
       <th>Specialities</th>

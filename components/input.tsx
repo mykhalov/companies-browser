@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { stateContext } from "./state";
 
-const Input: React.FC = () => {
+const CompanyNameInput: React.FC = () => {
   const [, setState] = useContext(stateContext);
 
   return (
@@ -12,4 +12,4 @@ const Input: React.FC = () => {
   );
 };
 
-export default Input;
+export default CompanyNameInput;
