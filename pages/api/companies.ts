@@ -19,6 +19,10 @@ export default function handler(
     if (typeof req.query.q == "string" && req.query.q)
       companies = filterByQuery(companies, req.query.q);
 
+    if (typeof req.query.s == "string" && req.query.s) {
+      companies = filterBySpecialities(companies, req.query.s.split(","));
+    }
+
     return res.status(200).json(companies);
   });
 }
@@ -31,4 +35,10 @@ function filterByQuery(companies: Company[], query: string) {
         a.name.toLowerCase().indexOf(query) -
         b.name.toLowerCase().indexOf(query)
     );
+}
+
+function filterBySpecialities(companies: Company[], specialites: string[]) {
+  return companies.filter((c) =>
+    specialites.every((s) => c.specialities.includes(s))
+  );
 }
