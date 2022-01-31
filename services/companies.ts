@@ -9,8 +9,14 @@ export default function useCompanies() {
 
     if (state.query) params.set("q", state.query);
 
+    const specialities = Array.from(state.specialities.entries())
+      .filter(([k, v]) => v)
+      .map(([k, v]) => k);
+
+    if (specialities.length) params.set("s", specialities.join(","));
+
     return params.toString();
-  }, [state.query]);
+  }, [state.query, state.specialities]);
 
   useEffect(() => {
     const ctrl = new AbortController();

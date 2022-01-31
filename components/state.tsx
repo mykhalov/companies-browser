@@ -5,6 +5,7 @@ import { Company } from "./types";
 const initialState = {
   companies: [] as Company[],
   query: "",
+  specialities: new Map<string, boolean>(),
 };
 
 export const stateContext = createContext([
