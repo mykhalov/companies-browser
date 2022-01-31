@@ -15,17 +15,20 @@ export default function handler(
 ) {
   data.then((json) => {
     let companies: Company[] = JSON.parse(json);
-    const query = req.query.q as string;
 
-    if (query)
-      companies = companies
-        .filter((c) => c.name.toLowerCase().includes(query))
-        .sort(
-          (a, b) =>
-            a.name.toLowerCase().indexOf(query) -
-            b.name.toLowerCase().indexOf(query)
-        );
+    if (typeof req.query.q == "string" && req.query.q)
+      companies = filterByQuery(companies, req.query.q);
 
     return res.status(200).json(companies);
   });
+}
+
+function filterByQuery(companies: Company[], query: string) {
+  return companies
+    .filter((c) => c.name.toLowerCase().includes(query))
+    .sort(
+      (a, b) =>
+        a.name.toLowerCase().indexOf(query) -
+        b.name.toLowerCase().indexOf(query)
+    );
 }
