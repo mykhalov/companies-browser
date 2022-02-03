@@ -5,8 +5,9 @@ const SpecialitiesCheckbox: React.FC<{ value: string }> = ({ value: s }) => {
   const [, setState] = useContext(stateContext);
 
   return (
-    <label>
+    <span className="first:rounded-l-lg last:rounded-r-lg">
       <input
+        id={s}
         type="checkbox"
         value={s}
         onChange={(e: ChangeEvent<HTMLInputElement>) =>
@@ -18,9 +19,15 @@ const SpecialitiesCheckbox: React.FC<{ value: string }> = ({ value: s }) => {
             ),
           }))
         }
+        className="hidden peer"
       />
-      {s}
-    </label>
+      <label
+        htmlFor={s}
+        className="p-2 bg-white shadow-inner peer-checked:bg-slate-200 peer-checked:shadow-none"
+      >
+        {s}
+      </label>
+    </span>
   );
 };
 

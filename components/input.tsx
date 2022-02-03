@@ -8,6 +8,7 @@ const CompanyNameInput: React.FC = () => {
     <input
       placeholder="Company name"
       onChange={(e) => setState((s) => ({ ...s, query: e.target.value }))}
+      className="p-2 shadow-inner"
     />
   );
 };

@@ -8,18 +8,22 @@ const CompaniesHeader: React.FC = () => {
 
   return (
     <thead>
-      <th>
-        <CompanyNameInput />
-      </th>
-      <th>Logo</th>
-      <th>
-        {Array.from(new Set(state.companies.flatMap((c) => c.specialities)))
-          .sort()
-          .map((s) => (
-            <SpecialitiesCheckbox key={s} value={s} />
-          ))}
-      </th>
-      <th>City</th>
+      <tr className="bg-slate-50 border-b border-slate-200">
+        <th className="p-2">
+          <CompanyNameInput />
+        </th>
+        <th>Logo</th>
+        <th>
+          <span className="flex divide-x">
+            {Array.from(new Set(state.companies.flatMap((c) => c.specialities)))
+              .sort()
+              .map((s) => (
+                <SpecialitiesCheckbox key={s} value={s} />
+              ))}
+          </span>
+        </th>
+        <th>City</th>
+      </tr>
     </thead>
   );
 };

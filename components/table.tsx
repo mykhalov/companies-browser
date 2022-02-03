@@ -6,7 +6,7 @@ const CompaniesTable: React.FC = () => {
   const companies = useCompanies();
 
   return (
-    <table>
+    <table className="m-2 shadow-md">
       <CompaniesHeader />
       <tbody>
         {companies.map((c) => (
