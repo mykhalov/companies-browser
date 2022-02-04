@@ -29,7 +29,7 @@ export default function handler(
 
 function filterByQuery(companies: Company[], query: string) {
   return companies
-    .filter((c) => c.name.toLowerCase().includes(query))
+    .filter((c) => c.name.toLowerCase().includes(query.toLowerCase()))
     .sort(
       (a, b) =>
         a.name.toLowerCase().indexOf(query) -
