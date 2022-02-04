@@ -19,3 +19,4 @@ open http://localhost:3000
   become tedious, so the endpoint could be updated to use GraphQL instead.
 - UI: lazy-loading rows behind the fold (i.e. infinite scrolling) can improve the
   perceived performance.
+- UI: loading and empty states would help.
